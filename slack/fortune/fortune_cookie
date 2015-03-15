@@ -1,0 +1,2 @@
+#!/bin/bash
+fortune -a | cow$(shuf -n1 -e say think) -f $(ls /usr/share/cowsay/cows/ | shuf -n1)
