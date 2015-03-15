@@ -1,4 +1,4 @@
-# Slack-Shenanigans
+# Slack Shenanigans
 Scripts designed to annoy your coworkers and abuse company resources
 
 ## Fortune_Cookie
