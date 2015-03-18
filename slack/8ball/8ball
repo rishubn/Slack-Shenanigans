@@ -1,0 +1,2 @@
+#!/bin/bash
+fortune 8ball | cow$(shuf -n1 -e say think) -f $(ls /usr/share/cowsay/cows/ | shuf -n1)
